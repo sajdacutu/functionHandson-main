@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(222, 245, 220);
+    padding: 30px;
+    margin: 10px;
+}
+#Function{
+    font-size: 30px;
+    text-align: center;
+}
+P{
+    font-size: 20px;
+}
